@@ -20,6 +20,10 @@ public class SheroController : MonoBehaviour
         //animator.SetBool("Right", Input.GetKey(KeyCode.RightArrow));
         animator.SetBool("Up", Input.GetKey(KeyCode.UpArrow));
         animator.SetBool("Down", Input.GetKey(KeyCode.DownArrow));
+        if (Input.GetKey(KeyCode.UpArrow))
+        {
+
+        }
         if (Input.GetKey(KeyCode.LeftArrow))
         {
             animator.SetBool("Right", true); //set the "Right" parameter to true and dont flip
