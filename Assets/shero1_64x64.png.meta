@@ -1,0 +1,2532 @@
+fileFormatVersion: 2
+guid: db2e4628286a6f74db7fb20b1fde0d4b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: shero1_64x64_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977425f4407434b43bd80415c7f7bffb
+      internalID: -1649003782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b07b5263023d54e93a7e6049dbdc8f
+      internalID: 1031405033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09c633cf4f975444b7b3cb14b1f4737
+      internalID: 239254736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1118
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95e8bb5d8ba51b41a6ce7c88f2d5951
+      internalID: -883042386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebdade0393c4c44f908155b558c8e56
+      internalID: 1276949128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e4c8493a47997499801e5fd765a7b6
+      internalID: -1277330776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b380ad300a1196c438caab9fceefd6c8
+      internalID: 356131324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d935c5815a24fbd4b80ce5499e29c42d
+      internalID: -884201198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_14
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1032
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37d0de5304c10041b79228eb270e79d
+      internalID: -673188238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 946
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821e6ec9c3705ed40abed8f33d7d2044
+      internalID: 151525095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 946
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa898e84996f1204eaabc8fbdf6a362c
+      internalID: 2140913888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 946
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee0aeb5e79437040b5f04ed1b067934
+      internalID: 1230268943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_23
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 946
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086fdf1505a72c641bf302eb8e73fbbb
+      internalID: 1468934597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_24
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 946
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4306753b9db963748bfdeaef4612dd81
+      internalID: -1220323319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 946
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395a2f494a1af68499d0cfc284bdb9ff
+      internalID: -1077585890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_26
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 946
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be461c9fc3494454ab25a9295f18dddc
+      internalID: 1984459740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_27
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 946
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676961576983a3c4fa3d60a117d579d9
+      internalID: 1171030346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_28
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 946
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa401cbf6c7ce684b8ec3edfa98af869
+      internalID: 1927403000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_29
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 946
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b62077455871f4dae60dc2adb6633a
+      internalID: 2050204958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaa05016fbfb3645af398edc81a64cd
+      internalID: 519333965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_31
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0560e2e116dc1194590b70d1e688d5d4
+      internalID: 888504038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_32
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b147b5c169f30e47a6dcf8a4335ebdb
+      internalID: 707374659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_33
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f8f2226c9d9014dbb2a03e68157e4c
+      internalID: 138967385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_34
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f22529234158224d91cd0ff9356cb59
+      internalID: -298768261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4519747fbd03ff14caaf5abf1ea17e55
+      internalID: 821719634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_36
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b58d0558cad7e940a7d8bf46cc4767a
+      internalID: -1055501718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_37
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942362fac1383fa468b0827bd1a75e88
+      internalID: 708162410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_38
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b767728a7bfeab54da55414fb5dcc8e9
+      internalID: 582550234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_39
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 860
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08482e2798aa5be4191e187a0d6bf570
+      internalID: -1615441468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 774
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f7f1a9951cecf44be1641214301441
+      internalID: 312669159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 774
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b884b6630b55a0c4f8b78254de50314c
+      internalID: -731778847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 774
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcee034821186c4faa9289c5f9cc5a2
+      internalID: 19759995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_43
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 774
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be69cd87cf2001744bac7bfffe1048e2
+      internalID: -180325112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_44
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 774
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa55aec019c0f294db34e434437d9f31
+      internalID: 164902975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_45
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 774
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26100fc035416f7418dc5bbd7b51997f
+      internalID: 1623060787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_46
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 774
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f30b3778a983e84fa2371438909d0f9
+      internalID: -1866345653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_47
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 774
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5a5659e83d3b548a2519f452910dc1
+      internalID: -1791178950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_48
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 774
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f21000c268f1042967f37ccd24f429
+      internalID: -547686128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_49
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 774
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51eecccfbaeeda48afb179d882ddbd1
+      internalID: -1070985376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4516f547abbaa16429dfaa0ca0d179eb
+      internalID: 351842030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_51
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5413577c12c914ea402e878e53ab40
+      internalID: 1025737195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_52
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b866e682380554287f490957319aa9
+      internalID: -165474853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_53
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffda4b980232d6947bd90274b3416b06
+      internalID: 411503163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_54
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f2d4d13a01934458babc5fd44f14bd
+      internalID: -479714128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ecc6dacfc0cb2409270742dd96d533
+      internalID: 513829662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_56
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776f43009a9322d4dabef518b66b786e
+      internalID: 1008581056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_57
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa10d2de05a1bbf4f896fb37332c39a2
+      internalID: -1594618485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_58
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e657475b98ee524ea632401d2b485ae
+      internalID: 1609415963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_59
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7e7dbb07b308c47a9e5dba67e866b0
+      internalID: -1094339234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 602
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b573097cab6a341899f2d1aefc5152
+      internalID: 474064446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 602
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7989603da9ae64e4189a4cfaf98a7bfb
+      internalID: -914270893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_62
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 602
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bca65fc6aca334192cd9f5e20957a8
+      internalID: 121640066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_63
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 602
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6951f97e4d47a459f72a35ff399733
+      internalID: -1133642785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_64
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 602
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2798c292239c49e47b77f0b9f0565599
+      internalID: -921619732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_65
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 602
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21632a71bfe44bf4892b3b55145a7551
+      internalID: -769943104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c17d99e909c1e34698ae98b290f4a00
+      internalID: -1454145903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_71
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547b4a07eaf07ef44b18874de1e605e6
+      internalID: -535211915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_72
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cee5eea25520ac409445af6e9fa54d7
+      internalID: -1436041082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_73
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c76ca8e2924c874c83c4200d5a8bf73
+      internalID: -1899739400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_74
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4499bbddb2d4b428c6febb931f53cd
+      internalID: -1876359061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_75
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 516
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983133f1e3bfac342bf19f130a66f4ba
+      internalID: 30810617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9327e8e3174a5646b1f6cf7936ef3c7
+      internalID: -1345941925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_81
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71367e98c7dc15e4fad9846e9cc638fb
+      internalID: -771150787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_82
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eabfaba31b2e3458fb02804c95c7a5
+      internalID: -1441840170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_83
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38854d5490e689942915920d1ee028f0
+      internalID: 1535767061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_84
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711f8590c0aad4949bc1f77b3cb265e1
+      internalID: -853707367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_85
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2b020278e2aa549a779b55079ab371
+      internalID: 443623373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f525a27567c5d64c972969ea624a977
+      internalID: 1227843398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_91
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc6e236be9196443b0c9bdf07009abb
+      internalID: 1431760566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_92
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bda6b4e73de6e547bede997df95c52e
+      internalID: -984083828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_93
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ca962473ab9c9498f53fa60d4122bc
+      internalID: -309671288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_94
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648c6729c1ecea746b8c95f7feeeaf49
+      internalID: 973410243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_95
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7777410285de15e4c9eec621efe9c953
+      internalID: -223838511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8ffcfcf7c4edf438f92f5c1da03127
+      internalID: -1834797688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_101
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f079ec9c61846040aa6a79a269b1bb5
+      internalID: 406711188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_102
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a565caa0eb0c14b48930b88f178ff9cb
+      internalID: 719906853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_103
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c28ad2aeb690a04ab1077b80fcbf2f6
+      internalID: 67206692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_104
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abb5688621f22e49b31b35cc850b031
+      internalID: 1568352346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_105
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8793634ae0224f8438d9af45898dfee2
+      internalID: 1411463649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_106
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 258
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c53f56668c80d41b5df3c61058b020
+      internalID: -664013703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1897a4f0fe526dd4588fc7281419cdc7
+      internalID: 1611718706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_111
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3ac84e3c8f5d84fb1b4b1b399f77f1
+      internalID: 1009906133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_112
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1782b7297d2faf14e8d72623414a2304
+      internalID: -1548656280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_113
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484686731ae19544599a6ee1bf60aef5
+      internalID: -1416925233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_114
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4128fc05d4d417c4aa753c13f1ec303b
+      internalID: 1641635468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_115
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049ef4ffa2cf9674d99c69372a8b2ccc
+      internalID: 1662783697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_116
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776de1ea72bee744aab42f6230fa3eb2
+      internalID: -339540707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_117
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 172
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21aaf5268c2f114a9f31a95950a0df5
+      internalID: -694928996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 86
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9577647ab364c374cac0aa5708664c10
+      internalID: -674704510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_121
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 86
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963323ffceed4d64b8b4a1d2e7319944
+      internalID: 240777832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_122
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 86
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248fe319ea5bed348806286c67eec6d6
+      internalID: -2077856630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 86
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d394bd7bb7b5ae941bff960c9f2902ba
+      internalID: 706497846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_124
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 86
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf952ff813ca3e46b53a0bbc27017de
+      internalID: 844602358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_125
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 86
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87aac15919684941b31bc81d909cce4
+      internalID: 995906605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_126
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 86
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13be53cd8d892fa4f8827229d4296573
+      internalID: 89358939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_127
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 86
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be12554caee9b34cb23c9bb6454dfa2
+      internalID: -959711764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_128
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 86
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fcd0655d8ffd648b9d2abefc69b9d5
+      internalID: 2044448659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_130
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb0a7d0f7aeed5459e45ea7f204bc12
+      internalID: 2048357819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_131
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960b20742e0c05944ae59ee8155ca63b
+      internalID: -134915342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_132
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf7e7cf9a9f20c4d9fb2b7718632735
+      internalID: 485986180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_133
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179062d5c46dab64bac195d923242801
+      internalID: 1430899628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_134
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172ede5e93ba8784d983cae03a270226
+      internalID: 1790823606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_135
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcba45254a8fd547a449e4570ae0ce7
+      internalID: 8358305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_136
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f906df43f999004f98ae50c684b2911
+      internalID: -1661253090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_137
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abc1561542eadc488d3e4510fdcd66b
+      internalID: 1542483738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: shero1_64x64_138
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d63ba412617618448598adadbd9857f
+      internalID: -1477619604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      shero1_64x64_0: -1649003782
+      shero1_64x64_1: 1031405033
+      shero1_64x64_10: 1276949128
+      shero1_64x64_100: -1834797688
+      shero1_64x64_101: 406711188
+      shero1_64x64_102: 719906853
+      shero1_64x64_103: 67206692
+      shero1_64x64_104: 1568352346
+      shero1_64x64_105: 1411463649
+      shero1_64x64_106: -664013703
+      shero1_64x64_107: 2104873921
+      shero1_64x64_108: -1570230545
+      shero1_64x64_109: -946086461
+      shero1_64x64_11: -1277330776
+      shero1_64x64_110: 1611718706
+      shero1_64x64_111: 1009906133
+      shero1_64x64_112: -1548656280
+      shero1_64x64_113: -1416925233
+      shero1_64x64_114: 1641635468
+      shero1_64x64_115: 1662783697
+      shero1_64x64_116: -339540707
+      shero1_64x64_117: -694928996
+      shero1_64x64_118: -1918419199
+      shero1_64x64_119: -368000301
+      shero1_64x64_12: 356131324
+      shero1_64x64_120: -674704510
+      shero1_64x64_121: 240777832
+      shero1_64x64_122: -2077856630
+      shero1_64x64_123: 706497846
+      shero1_64x64_124: 844602358
+      shero1_64x64_125: 995906605
+      shero1_64x64_126: 89358939
+      shero1_64x64_127: -959711764
+      shero1_64x64_128: 2044448659
+      shero1_64x64_129: 1450919591
+      shero1_64x64_13: -884201198
+      shero1_64x64_130: 2048357819
+      shero1_64x64_131: -134915342
+      shero1_64x64_132: 485986180
+      shero1_64x64_133: 1430899628
+      shero1_64x64_134: 1790823606
+      shero1_64x64_135: 8358305
+      shero1_64x64_136: -1661253090
+      shero1_64x64_137: 1542483738
+      shero1_64x64_138: -1477619604
+      shero1_64x64_139: -570255992
+      shero1_64x64_14: -673188238
+      shero1_64x64_15: -1704118000
+      shero1_64x64_16: 1895219954
+      shero1_64x64_17: -1330570819
+      shero1_64x64_18: -1747319193
+      shero1_64x64_19: 365065625
+      shero1_64x64_2: 239254736
+      shero1_64x64_20: 151525095
+      shero1_64x64_21: 2140913888
+      shero1_64x64_22: 1230268943
+      shero1_64x64_23: 1468934597
+      shero1_64x64_24: -1220323319
+      shero1_64x64_25: -1077585890
+      shero1_64x64_26: 1984459740
+      shero1_64x64_27: 1171030346
+      shero1_64x64_28: 1927403000
+      shero1_64x64_29: 2050204958
+      shero1_64x64_3: -883042386
+      shero1_64x64_30: 519333965
+      shero1_64x64_31: 888504038
+      shero1_64x64_32: 707374659
+      shero1_64x64_33: 138967385
+      shero1_64x64_34: -298768261
+      shero1_64x64_35: 821719634
+      shero1_64x64_36: -1055501718
+      shero1_64x64_37: 708162410
+      shero1_64x64_38: 582550234
+      shero1_64x64_39: -1615441468
+      shero1_64x64_4: 240714548
+      shero1_64x64_40: 312669159
+      shero1_64x64_41: -731778847
+      shero1_64x64_42: 19759995
+      shero1_64x64_43: -180325112
+      shero1_64x64_44: 164902975
+      shero1_64x64_45: 1623060787
+      shero1_64x64_46: -1866345653
+      shero1_64x64_47: -1791178950
+      shero1_64x64_48: -547686128
+      shero1_64x64_49: -1070985376
+      shero1_64x64_5: -451144100
+      shero1_64x64_50: 351842030
+      shero1_64x64_51: 1025737195
+      shero1_64x64_52: -165474853
+      shero1_64x64_53: 411503163
+      shero1_64x64_54: -479714128
+      shero1_64x64_55: 513829662
+      shero1_64x64_56: 1008581056
+      shero1_64x64_57: -1594618485
+      shero1_64x64_58: 1609415963
+      shero1_64x64_59: -1094339234
+      shero1_64x64_6: 909451718
+      shero1_64x64_60: 474064446
+      shero1_64x64_61: -914270893
+      shero1_64x64_62: 121640066
+      shero1_64x64_63: -1133642785
+      shero1_64x64_64: -921619732
+      shero1_64x64_65: -769943104
+      shero1_64x64_66: 1762096936
+      shero1_64x64_67: -845542242
+      shero1_64x64_68: -1857824025
+      shero1_64x64_69: -55887917
+      shero1_64x64_7: 361571638
+      shero1_64x64_70: -1454145903
+      shero1_64x64_71: -535211915
+      shero1_64x64_72: -1436041082
+      shero1_64x64_73: -1899739400
+      shero1_64x64_74: -1876359061
+      shero1_64x64_75: 30810617
+      shero1_64x64_76: -949270093
+      shero1_64x64_77: 315224063
+      shero1_64x64_78: 1028717237
+      shero1_64x64_79: -25465293
+      shero1_64x64_8: 129482799
+      shero1_64x64_80: -1345941925
+      shero1_64x64_81: -771150787
+      shero1_64x64_82: -1441840170
+      shero1_64x64_83: 1535767061
+      shero1_64x64_84: -853707367
+      shero1_64x64_85: 443623373
+      shero1_64x64_86: 129148788
+      shero1_64x64_87: -1947637678
+      shero1_64x64_88: 1582276892
+      shero1_64x64_89: 1121492794
+      shero1_64x64_9: -844162828
+      shero1_64x64_90: 1227843398
+      shero1_64x64_91: 1431760566
+      shero1_64x64_92: -984083828
+      shero1_64x64_93: -309671288
+      shero1_64x64_94: 973410243
+      shero1_64x64_95: -223838511
+      shero1_64x64_96: 34425017
+      shero1_64x64_97: -1199990509
+      shero1_64x64_98: 908386822
+      shero1_64x64_99: 1972799723
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
