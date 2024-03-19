@@ -6,19 +6,20 @@ public class SoldierComtroller : MonoBehaviour
 {
     Animator animator; //create a refernce to Animator type
     SpriteRenderer spriteRenderer;
-    float Speed = 1.0f;
-    GameObject bulletPrefab;
-    Vector3 gun;
+    [SerializeField] float Speed = 1.0f;
+    [SerializeField] GameObject bulletPrefab;
+    [SerializeField] Vector3 gun;
+    
 
     // Start is called before the first frame update
-    void Start()
+    public void Start()
     {
         animator = GetComponent<Animator>(); //Get a reference to the component
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
-    void Update()
+    public void Update()
     {
         animator.SetBool("Up", false);
         animator.SetBool("Down", false);
@@ -46,9 +47,17 @@ public class SoldierComtroller : MonoBehaviour
             spriteRenderer.flipX = false;
             transform.Translate(Time.deltaTime * Vector3.right * Speed);
         }
-        if (Input.GetKeyDown(KeyCode.Space)) //When Fire1 button is hit, heartprefab is instantiated
+        if (Input.GetKeyDown(KeyCode.Space))
         {
-            Instantiate(bulletPrefab, transform.position + gun, transform.rotation);
+            if (animator.GetBool("Right") == true)
+            {
+                Instantiate(bulletPrefab, transform.position + gun, Quaternion.Euler(0,0,90));
+            }
+            if (animator.GetBool("Down") == true)
+            {
+                Instantiate(bulletPrefab, transform.position + gun, Quaternion.Euler(0, 0, 90));
+            }
+
         }
         // else
         //  {
